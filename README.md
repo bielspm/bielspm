@@ -1,6 +1,6 @@
 <h1>Oi:hushed:</h1>
 <h2>Quem eu sou ?</h2>
-<p>Me chamo Gabriel, sou Desenvolvedor, com foco na area web</p></br><p>Atualmente curso o sexto periodo de Sistemas de Informação</p></br>Tenho maior afinidade com o Back-End
+<p>Me chamo Gabriel, sou Desenvolvedor, com foco na area web</p></br><p>Atualmente curso o oitavo e ultimo periodo de Sistemas de Informação</p></br>Tenho maior afinidade com o Back-End
 <h2>Principais tecnologias<h2>
 <h3>Stack Principal</h3>
 <div style="display: inline_block"><br>
